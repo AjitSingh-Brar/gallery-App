@@ -1,4 +1,3 @@
-# gallery-App
 # Gallery Application
 
 A simplistic photo gallery app built using Angular 9. You can check the through the link https://ajitsingh-brar.github.io/gallery-App/
