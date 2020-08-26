@@ -1,10 +1,10 @@
 # gallery-App
-Gallery Application
+# Gallery Application
 
 A simplistic photo gallery app built using Angular 9. You can check the through the link https://ajitsingh-brar.github.io/gallery-App/
 This project was generated with Angular CLI version  10.0.1.
 
-Development server
+# Development server
 
 
 Run ng serve for a dev server.
